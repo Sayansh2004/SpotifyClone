@@ -18,7 +18,7 @@ This is a web clone of Spotify's music player interface. It mimics the layout an
 ## Demo Video
 
 You can view a demo of the project here:  
-https://github.com/Sayansh2004/SpotifyClone/blob/main/demo.mp4
+https://github.com/Sayansh2004/SpotifyClone/blob/main/responsiveDemo.mp4
 
 ## Installation
 
